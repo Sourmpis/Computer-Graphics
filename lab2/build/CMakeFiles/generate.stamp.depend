@@ -1,0 +1,41 @@
+# CMake generation dependency list for this directory.
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/CMakeLists.txt
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/3.9.4/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/3.9.4/CMakeCCompiler.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/3.9.4/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.9/Modules/FindPackageMessage.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/CreateLaunchers.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/CleanDirectoryList.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/ListCombinations.cmake
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/vcxproj.user.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/vcxproj.user.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in

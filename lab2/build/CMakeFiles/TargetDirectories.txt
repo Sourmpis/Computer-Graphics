@@ -1,0 +1,11 @@
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/lab02.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/INSTALL.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/external/CMakeFiles/GLEW_1130.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/external/CMakeFiles/INSTALL.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/external/glfw-3.1.2/CMakeFiles/uninstall.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/external/glfw-3.1.2/CMakeFiles/INSTALL.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/external/glfw-3.1.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/external/glfw-3.1.2/src/CMakeFiles/glfw.dir
+C:/Users/Christos/Documents/university/5o Etos/Graphics/lab2/build/external/glfw-3.1.2/src/CMakeFiles/INSTALL.dir

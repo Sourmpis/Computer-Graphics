@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\lab02\lab02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\common\util.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\common\util.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\common\shader.h">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\lab02\simple.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\Christos\Documents\university\5o Etos\Graphics\lab2\lab02\transformation.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{36FA608D-E96E-3090-BE97-9667551C6DBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{A228515F-4F8C-3925-B5DA-7DB5B8A6D1E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{16711A8C-7FDC-3D31-8BDC-B76A7240BF06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
